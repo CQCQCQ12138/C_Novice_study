@@ -1,2 +1,3 @@
 ﻿  study_8_31.c
+D:\Code\C_Program\C_Novice_study\study_8_31\study_8_31.c(5,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   study_8_31.vcxproj -> D:\Code\C_Program\C_Novice_study\study_8_31\Debug\study_8_31.exe
